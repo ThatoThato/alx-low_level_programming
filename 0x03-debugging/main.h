@@ -11,4 +11,4 @@ int convert_day(int month, int day);
 void print_times_table(int n);
 
 
-#endif /* MAIN_H */
+#endif
